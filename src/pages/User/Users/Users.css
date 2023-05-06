@@ -1,0 +1,53 @@
+.card-1 {
+    border: none;
+    border-radius: 10px;
+    width: 80%;
+    background-color: #fff
+}
+
+.th1{
+    width: 5%;
+}
+
+.th2{
+    width: 20%;
+}
+
+.th3{
+    width: 30%;
+}
+
+.th4{
+    width: 30%;
+}
+.th5{
+    width: 15%;
+}
+
+.topnav__search {
+    position: relative;
+    height: 50px;
+    background-color: var(--main-bg);
+    display: flex;
+    align-items: center;
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    
+}
+
+.topnav__search > input {
+    height: 100%;
+    width: 100%;
+    padding: 10px 60px 10px 20px;
+    font-size: 1rem;
+    border-radius: var(--border-radius);
+    color: var(--txt-color);
+    background-color: var(--main-bg);
+}
+
+.topnav__search > i {
+    font-size: 1.5rem;
+    position: absolute;
+    right: 20px;
+}

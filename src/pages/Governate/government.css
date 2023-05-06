@@ -1,0 +1,11 @@
+.card-1 {
+    border: none;
+    border-radius: 10px;
+    width: 80%;
+    background-color: #fff
+}
+
+.editAddIcon{
+    margin: 15px;
+    cursor: pointer;
+}

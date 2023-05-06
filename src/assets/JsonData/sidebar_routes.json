@@ -1,0 +1,23 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "All Products",
+        "route": "/products",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Add Product",
+        "route": "/FormProduct",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Orders",
+        "route": "/orders",
+        "icon": "bx bx-cart"
+    }
+    
+]
